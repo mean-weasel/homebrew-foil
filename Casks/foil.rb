@@ -1,6 +1,6 @@
 cask "foil" do
-  version "1.12.2"
-  sha256 "39180396a7d29bd43c03165167823f91f4b7358a3937198f155a7eaae30574ad"
+  version "1.13.0"
+  sha256 "ed7e2212fbc5b82800aea89b4dd5faada4d6fa97db9c3ff21983469ae93831a4"
 
   url "https://github.com/mean-weasel/foil/releases/download/v#{version}/Foil-#{version}-macos.dmg"
   name "Foil"
