@@ -1,8 +1,8 @@
 cask "foil" do
-  version "1.13.2"
-  sha256 "ad8a09661d31896df77cae499b426a94713dbeba57739918ba49148be202463d"
+  version "1.13.3"
+  sha256 "e662fa96a3f5c77ae2cd6811ddd679eec2ce4418e47c9db1a48904a35e7ec9e0"
 
-  url "https://github.com/mean-weasel/foil/releases/download/v1.13.2/Foil-1.13.2-macos.dmg"
+  url "https://github.com/mean-weasel/foil/releases/download/v1.13.3/Foil-1.13.3-macos.dmg"
   name "Foil"
   desc "Menu bar speech-to-text transcription with cloud and local providers"
   homepage "https://github.com/mean-weasel/foil"
