@@ -1,14 +1,14 @@
 cask "foil" do
-  version "1.13.6"
-  sha256 "b6a65c7ae63b41eb4ba03ae02fd0bea86694305647e187ed80cd4dae84f787a7"
+  version "1.13.7"
+  sha256 "4658dad9acdf22b7fe05ef1d07731ef5edc1d256ddf2a9f6f5eaa9f45cddfc5f"
 
-  url "https://github.com/usefoil/foil/releases/download/v1.13.6/Foil-1.13.6-macos.dmg"
+  url "https://github.com/usefoil/foil/releases/download/v1.13.7/Foil-1.13.7-macos.dmg"
   name "Foil"
   desc "Menu bar speech-to-text transcription with cloud and local providers"
   homepage "https://github.com/usefoil/foil"
 
   auto_updates true
-  depends_on macos: :sonoma
+  depends_on macos: ">= :sonoma"
 
   app "Foil.app"
 
