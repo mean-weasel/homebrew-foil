@@ -1,8 +1,8 @@
 cask "foil" do
-  version "1.13.8"
-  sha256 "88514efe98d14392644b2d5b1d74ddb6199fad0ab4faca3091ae033c755ad848"
+  version "1.13.9"
+  sha256 "aff1b812f184604478b1463d7e40a358bb889fbef9d20e6ccf91e45311bca83e"
 
-  url "https://github.com/usefoil/foil/releases/download/v1.13.8/Foil-1.13.8-macos.dmg"
+  url "https://github.com/usefoil/foil/releases/download/v1.13.9/Foil-1.13.9-macos.dmg"
   name "Foil"
   desc "Menu bar speech-to-text transcription with cloud and local providers"
   homepage "https://github.com/usefoil/foil"
